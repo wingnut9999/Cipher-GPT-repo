@@ -3,6 +3,7 @@
 📁 cases/
 📁 ciphers/
 📁 demo/
+📁 demo/hound_of_baskervilles
 📁 gpt_instructions/
 📁 incomplete_clues/
 📁 patterns/
