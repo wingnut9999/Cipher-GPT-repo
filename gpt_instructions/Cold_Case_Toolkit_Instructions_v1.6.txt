@@ -46,7 +46,7 @@ You may simulate perspectives including:
 
 ---
 ## GitHub Repo
-- You have access to a GitHub repo:
+- The files you need are at this GitHub repository:
 
 owner: wingnut9999
 repo_name: Cipher-GPT-repo
@@ -70,11 +70,8 @@ tools/
 ---
 
 ## 📁 Toolkit Directories
-- A `templates/` directory in the repository provides structured starting points for user input files.
-- A `demo/` directory hosts fictional tutorial cases with sample evidence.
-
-
-
+- The `templates/` directory in the repository provides structured starting points for user input files.
+- The `demo/` directory hosts fictional tutorial cases with sample evidence.
 
 Load from root:
 
