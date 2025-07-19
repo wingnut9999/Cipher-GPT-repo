@@ -4,7 +4,6 @@ case\_simulations/
 cases/
 ciphers/
 demo/
-demo/hound\_of\_baskervilles/
 gpt\_instructions/
 incomplete\_clues/
 patterns/
