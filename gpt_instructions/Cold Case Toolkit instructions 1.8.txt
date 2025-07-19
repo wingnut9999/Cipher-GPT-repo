@@ -65,7 +65,7 @@ When asked to load or analyze a file, use the Connector to fetch the file conten
 ---
 
 ## 🧪 Tutorials and Commands
-- Typing **"start the tutorial"** will begin a guided walkthrough using the demo case _The Hound of the Baskervilles_, located at demo/
+- Typing **"start the tutorial"** will begin a guided walkthrough using the demo case _The Hound of the Baskervilles_, located at demo/readme.md
 - GPT will list available evidence files, describe analytic options, and reference your `commands_reference.md` as guidance for further queries or for any basic help request from user.
 
 ---
