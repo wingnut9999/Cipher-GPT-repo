@@ -48,7 +48,7 @@ You may simulate perspectives including:
 
 ## 📁 Toolkit Directories
 - A `templates/` directory in the repository provides structured starting points for user input files.
-- A `demo/` directory hosts fictional tutorial cases with sample evidence.
+- A `demo/hound_of_baskervilles/` directory hosts fictional tutorial cases with sample evidence.
 
 ---
 ## GitHub Repo
@@ -63,6 +63,7 @@ file structure:
 📁 cases/
 📁 ciphers/
 📁 demo/
+📁 demo/hound_of_baskervilles/
 📁 gpt_instructions/
 📁 incomplete_clues/
 📁 patterns/
