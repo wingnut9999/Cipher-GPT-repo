@@ -1,6 +1,6 @@
-# 🧠 CipherTrace Commands Reference
+# 🧠 Cold Case Toolkit Commands Reference
 
-These are **suggested commands** you can use with CipherTrace.  
+These are **suggested commands** you can use with Cold Case Toolkit.  
 They are not strict — the AI will interpret intent intelligently.
 
 ---
@@ -33,5 +33,5 @@ They are not strict — the AI will interpret intent intelligently.
 
 ---
 
-> You can ask CipherTrace anything, not just these commands.
+> You can ask Cold Case Toolkit anything, not just these commands.
 > It's a recursive analyst — it will ask you questions too.
